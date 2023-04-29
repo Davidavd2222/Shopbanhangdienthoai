@@ -1,0 +1,613 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\css\\menuDoc.css",
+      "PackagePath": "staticwebassets\\css\\menuDoc.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\IPHONE-13-1.webp",
+      "PackagePath": "staticwebassets\\image\\IPHONE-13-1.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a03-1.jpg",
+      "PackagePath": "staticwebassets\\image\\a03-1.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a03-2.jpg",
+      "PackagePath": "staticwebassets\\image\\a03-2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a03-3.jpg",
+      "PackagePath": "staticwebassets\\image\\a03-3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a03-4.jpg",
+      "PackagePath": "staticwebassets\\image\\a03-4.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a03s.jpg",
+      "PackagePath": "staticwebassets\\image\\a03s.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a12-1 (1).jpg",
+      "PackagePath": "staticwebassets\\image\\a12-1 (1).jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a12-1 (2).jpg",
+      "PackagePath": "staticwebassets\\image\\a12-1 (2).jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a12-1 (3).jpg",
+      "PackagePath": "staticwebassets\\image\\a12-1 (3).jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a12.jpg",
+      "PackagePath": "staticwebassets\\image\\a12.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a52s.webp",
+      "PackagePath": "staticwebassets\\image\\a52s.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\a72.jpg",
+      "PackagePath": "staticwebassets\\image\\a72.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\apple.png",
+      "PackagePath": "staticwebassets\\image\\apple.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\banner.jpg",
+      "PackagePath": "staticwebassets\\image\\banner.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\banner1.webp",
+      "PackagePath": "staticwebassets\\image\\banner1.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\f20fe.jpg",
+      "PackagePath": "staticwebassets\\image\\f20fe.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\icon.svg",
+      "PackagePath": "staticwebassets\\image\\icon.svg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-11.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-11.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12-1.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-12-1.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12-2.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-12-2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-12.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12a.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-12a.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12b.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-12b.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12c.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-12c.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12d.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-12d.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12e.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-12e.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-12f.webp",
+      "PackagePath": "staticwebassets\\image\\iphone-12f.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-13-13.png",
+      "PackagePath": "staticwebassets\\image\\iphone-13-13.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-13b.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-13b.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-13c.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-13c.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-13d.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-13d.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-13e.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-13e.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone-13f.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone-13f.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone11a.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone11a.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone11b.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone11b.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone11c.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone11c.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone11d.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone11d.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone11e.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone11e.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone11f.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone11f.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone13a.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone13a.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone_13-a.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone_13-a.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone_13-b.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone_13-b.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphone_8.jpg",
+      "PackagePath": "staticwebassets\\image\\iphone_8.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphonexa.jpg",
+      "PackagePath": "staticwebassets\\image\\iphonexa.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphonexb.jpg",
+      "PackagePath": "staticwebassets\\image\\iphonexb.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\iphonexb.webp",
+      "PackagePath": "staticwebassets\\image\\iphonexb.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\logo2.png",
+      "PackagePath": "staticwebassets\\image\\logo2.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\logodt.png",
+      "PackagePath": "staticwebassets\\image\\logodt.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\qc1.jpg",
+      "PackagePath": "staticwebassets\\image\\qc1.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\qc2.jpg",
+      "PackagePath": "staticwebassets\\image\\qc2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\qc3.jpg",
+      "PackagePath": "staticwebassets\\image\\qc3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\s20-1.jpg",
+      "PackagePath": "staticwebassets\\image\\s20-1.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\s20-2.jpg",
+      "PackagePath": "staticwebassets\\image\\s20-2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\s20.jpg",
+      "PackagePath": "staticwebassets\\image\\s20.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\samsung.png",
+      "PackagePath": "staticwebassets\\image\\samsung.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\samsung2.jpg",
+      "PackagePath": "staticwebassets\\image\\samsung2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\slide1.png",
+      "PackagePath": "staticwebassets\\image\\slide1.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\slide2.jpg",
+      "PackagePath": "staticwebassets\\image\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\slide3.jpg",
+      "PackagePath": "staticwebassets\\image\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\slide4.jpg",
+      "PackagePath": "staticwebassets\\image\\slide4.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sr1.jpg",
+      "PackagePath": "staticwebassets\\image\\sr1.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sr2.jpg",
+      "PackagePath": "staticwebassets\\image\\sr2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sr3.jpg",
+      "PackagePath": "staticwebassets\\image\\sr3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\ssn1.jpg",
+      "PackagePath": "staticwebassets\\image\\ssn1.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\ssn2.jpg",
+      "PackagePath": "staticwebassets\\image\\ssn2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\ssn3.jpg",
+      "PackagePath": "staticwebassets\\image\\ssn3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\ssn4.jpg",
+      "PackagePath": "staticwebassets\\image\\ssn4.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sss1.jpg",
+      "PackagePath": "staticwebassets\\image\\sss1.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sss2.jpg",
+      "PackagePath": "staticwebassets\\image\\sss2.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sss3.jpg",
+      "PackagePath": "staticwebassets\\image\\sss3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\sss4.jpg",
+      "PackagePath": "staticwebassets\\image\\sss4.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\user.png",
+      "PackagePath": "staticwebassets\\image\\user.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\v.png",
+      "PackagePath": "staticwebassets\\image\\v.png"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\xm1.webp",
+      "PackagePath": "staticwebassets\\image\\xm1.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\xm2.webp",
+      "PackagePath": "staticwebassets\\image\\xm2.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\xm3.webp",
+      "PackagePath": "staticwebassets\\image\\xm3.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\zflip.webp",
+      "PackagePath": "staticwebassets\\image\\zflip.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\zfold-1.webp",
+      "PackagePath": "staticwebassets\\image\\zfold-1.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\zfold-2.webp",
+      "PackagePath": "staticwebassets\\image\\zfold-2.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\zfold-3.webp",
+      "PackagePath": "staticwebassets\\image\\zfold-3.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\zfold-4.webp",
+      "PackagePath": "staticwebassets\\image\\zfold-4.webp"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\image\\zfold3.jpg",
+      "PackagePath": "staticwebassets\\image\\zfold3.jpg"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\js\\themgiohang.js",
+      "PackagePath": "staticwebassets\\js\\themgiohang.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\521H0185_nhv\\C#\\dack\\dack\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.dack.props",
+      "PackagePath": "build\\dack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.dack.props",
+      "PackagePath": "buildMultiTargeting\\dack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.dack.props",
+      "PackagePath": "buildTransitive\\dack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.dack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

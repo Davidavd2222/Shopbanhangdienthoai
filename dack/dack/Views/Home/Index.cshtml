@@ -1,0 +1,182 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="main" style="margin-top: 40px;">
+	<div class= "container-fluid">
+		<div class= "row">
+			<div class="box-title_title bg-light text-center" >
+				<h2><img src="~/image/logo2.png" style="height:30px;" /><strong>apple</strong></h2>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details","CartController1", new {id = 1})"><img src="~/image/iphone-13b.jpg" style="width: 200px; height:200px;" alt="iphone13" /></a>
+						<h4>iphone13|Chính hãng VNA</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>24.990.000 ₫</s>
+							<br><span class="giamoi">23.490.000 ₫</span>
+						</p>
+					</div>
+					<button type="button" class="btn btn-danger"/>@Html.ActionLink("Mua Hàng","Index","CartController1")</button>
+					<a href="@Url.Action("Details","CartController1", new {id = 1})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details2","CartController1", new {id = 2})"><img src="~/image/iphone11c.jpg" style="width: 200px; height:200px;" alt="iphone11" /></a>
+						<h4>iphone11|Chính hãng VNA</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>18.000.000 ₫</s>
+							<br><span class="giamoi">16.000.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangIphone11vang.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index1","CartController1")</button></a>
+					<a href="@Url.Action("Details2","CartController1", new {id = 2})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details3","CartController1", new {id = 3})"><img src="~/image/iphone-12f.webp" style="width: 200px; height:200px;" alt="iphone12" /></a>
+						<h4>iphone12|Chính hãng VNA</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>22.990.000 ₫</s>
+							<br><span class="giamoi">19.490.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangIphone12.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index2","CartController1")</button></a>
+					<a href="@Url.Action("Details3","CartController1", new {id = 3})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details4","CartController1", new {id = 4})"><img src="~/image/iphonexb.jpg" style="width: 200px; height:200px;" alt="iphonex" /></a>
+						<h4>iphoneX|Chính hãng VNA</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>11.990.000 ₫</s>
+							<br><span class="giamoi">9.490.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangIphone X.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index3","CartController1")</button></a>
+					<a href="@Url.Action("Details4","CartController1", new {id = 4})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+		
+			<nav aria-label="Page navigation example" style="margin-top:20px">
+				<ul class="pagination justify-content-center">
+					<li class="page-item">
+						<a class="page-link" href="#" aria-label="Previous">
+							<span aria-hidden="true">&laquo;</span>
+						</a>
+					</li>
+					<li class="page-item"><a class="page-link" href="#">1</a></li>
+					<li class="page-item"><a class="page-link" href="#">2</a></li>
+					<li class="page-item"><a class="page-link" href="#">3</a></li>
+					<li class="page-item">
+						<a class="page-link" href="#" aria-label="Next">
+							<span aria-hidden="true">&raquo;</span>
+						</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	<div class= "container-fluid">
+		<div class= "row">
+			<div class="box-title_title bg-light text-center" >
+				<h2><img src="~/image/samsung.png" style="height:50px;"></h2>
+			</div>
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details1","CartController1", new {id = 5})"><img src="~/image/a03s.jpg" style="width: 200px; height:200px;" alt="a03"></a>
+						<h4>SamSung Galaxy A03</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>24.990.000 ₫</s>
+							<br><span class="giamoi">23.490.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangSamSung A03.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index8","CartController1")</button></a>
+					<a href="@Url.Action("Details1","CartController1", new {id = 5})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details5","CartController1", new {id = 6})"><img src="~/image/a12.jpg" style="width: 200px; height:200px;" alt="a12"></a>
+						<h4>SamSung Galaxy A12</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>18.000.000 ₫</s>
+							<br><span class="giamoi">16.000.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangSamSung A03.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index9","CartController1")</button></a>
+					<a href="@Url.Action("Details5","CartController1", new {id = 6})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details6","CartController1", new {id = 7})"><img src="~/image/zfold3.jpg" style="width: 200px; height:200px;" alt="zfold"></a>
+						<h4>SamSung Z Fold 3</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>22.990.000 ₫</s>
+							<br><span class="giamoi">19.490.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangsamsungzfold.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index10","CartController1")</button></a>
+					<a href="@Url.Action("Details6","CartController1", new {id = 7})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+
+			<div class ="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" style="margin-top:20px;">
+				<div class="item-product text-center">
+					<div class="image">
+						<a href="@Url.Action("Details7","CartController1", new {id = 8})"><img src="~/image/f20fe.jpg" style="width: 200px; height:200px;" alt="s20fe"></a>
+						<h4>SamSung S20 FE</h4>
+					</div>
+					<div class="price-c">
+						<p class="price"><s>11.990.000 ₫</s>
+							<br><span class="giamoi">9.490.000 ₫</span>
+						</p>
+					</div>
+					<a href="~/cart/giohangsamsungs20fe.html"><button type="button" class="btn btn-danger">@Html.ActionLink("Mua Hàng","Index11","CartController1")</button></a>
+					<a href="@Url.Action("Details7","CartController1", new {id = 8})"><button type="button" class="btn btn-light">Sản phẩm</button></a>
+				</div>
+			</div>
+			
+			<nav aria-label="Page navigation example" style="margin-top:20px">
+				<ul class="pagination justify-content-center">
+					<li class="page-item">
+						<a class="page-link" href="#" aria-label="Previous">
+							<span aria-hidden="true">&laquo;</span>
+						</a>
+					</li>
+					<li class="page-item"><a class="page-link" href="#">1</a></li>
+					<li class="page-item"><a class="page-link" href="#">2</a></li>
+					<li class="page-item"><a class="page-link" href="#">3</a></li>
+					<li class="page-item">
+						<a class="page-link" href="#" aria-label="Next">
+							<span aria-hidden="true">&raquo;</span>
+						</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+

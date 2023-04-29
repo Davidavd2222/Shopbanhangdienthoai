@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = dack
+build_property.RootNamespace = dack
+build_property.ProjectDir = D:\521H0185_nhv\C#\dack\dack\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\521H0185_nhv\C#\dack\dack
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHMxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHMyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHMzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHM0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHM1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHM2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Details7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXERldGFpbHM3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4MTAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4MTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4OC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/CartController1/Index9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydENvbnRyb2xsZXIxXEluZGV4OS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/521H0185_nhv/C\#/dack/dack/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

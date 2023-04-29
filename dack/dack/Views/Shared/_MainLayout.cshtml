@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/menudoc.css" />
+</head>
+<body>
+	<div class="container">
+		<div class="banner">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+ 				<div class="container-fluid">
+					<a class="navbar-brand" href="#">
+						<img src="~/image/logo.png" alt="" width="180" height="36" />
+					</a>
+   					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+     					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+       						 <li class="nav-item">
+         						 <a class="nav-link active" aria-current="page" href="#" style="padding-left: 25px; padding-right: 25px;"><strong>Giỏ hàng</strong></a>
+       						 </li>
+       						<li class="nav-item">
+         						 <a class="nav-link active" aria-current="page" href="#" style="padding-left: 25px; padding-right: 25px;"><strong>Lịch sử đơn hàng</strong></a>
+   						   	</li>
+    				 	</ul>
+     					<form class="d-flex">
+       						 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" style="width: 326px;">
+       						 <button class="btn btn-outline-success" type="submit">Search</button>
+      					</form>
+						<div class="action">
+							<a href="login.php">
+                                <img src="~/image/user.png" alt="" />
+                            </a>
+						</div>
+   					</div>
+ 				</div>
+			</nav>
+		</div>
+        
+		<div class= "container-fluid">
+        		 <div class= "row">
+            		<div class ="col-9 bg-white" style="height: 400px;">
+               			<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  							<div class="carousel-indicators">
+   								 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+   								 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+   								 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+   								  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+ 							 </div>
+  							<div class="carousel-inner">
+    							<div class="carousel-item active">
+      								<img src="~/image/slide1.png" class="d-block w-100" alt="..."  style="width: 732px; height: 400px;" />
+   								 </div>
+    							<div class="carousel-item" >
+     						 		<img src="~/image/slide2.jpg" class="d-block w-100" alt="..."  style="width: 732px; height: 400px;" />
+    							</div>
+   								 <div class="carousel-item">
+     								 <img src="~/image/slide3.jpg" class="d-block w-100" alt="..."  style="width: 732px; height: 400px;"/>
+   								 </div>
+   								 <div class="carousel-item">
+     								 <img src="~/image/slide4.jpg" class="d-block w-100" alt="..."  style="width: 732px; height: 400px;"/>
+   								 </div>
+ 							 </div>
+ 							 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+   							 	<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+   								 <span class="visually-hidden">Previous</span>
+ 							 </button>
+ 							 <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+   								 <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  								  <span class="visually-hidden">Next</span>
+  							</button>
+			       		</div>
+			       	</div>
+           			 <div class ="col-3 bg-white">
+              			<img src="~/image/qc1.jpg" style="height: 120px; width: 310px;" />
+						<img src="~/image/qc2.jpg" style="height:120px; width: 310px; margin-top: 20px;" />
+						<img src="~/image/qc3.jpg" style="height:120px; width: 310px; margin-top: 20px;" />
+           			 </div>
+         		</div>
+      	</div>
+        <div class="banner">
+      		<img src="~/image/banner1.webp" alt="" style="width: 1294px; margin-top:20px;" />
+      	</div>
+        @RenderBody()
+        <div style="background: #181818 ;padding-left:50px;padding-right:50px  ;padding:10px;color:lightgrey;margin-top: 30px; border-radius:5px">
+		    <center>
+			    <h3> <strong>Công Ty Cổ Phần TNHH WaW</strong></h3>
+			    <p> <strong>Địa chỉ:</strong> 22 Trần Bình Trọng, TP Tuy Hòa, Tỉnh Phú Yên </p>
+			    <p> <strong>Số ĐT:</strong> 0782.293.947</p>
+			    <p><strong>Mail:</strong> Siuponaruto@gmail.com</p>
+			    <p><strong>Mã số doanh nghiệp:</strong> 200219899 do Sở Kế hoạch & Đầu Tư tỉnh Phú Yên
+			    Đầu ngày 17/4/2023 – Bản quyền thuộc về Công Ty Cổ Phần TNHH <strong>WaW</strong></p>
+		    </center>
+	    </div>
+	</div>
+    
+	<script type="text/javascript" src="~/js/bootstrap.js" ></script>
+	<script type="text/javascript" src="~/js/jquery-3.6.0.min.js" ></script>
+</body>
+</html>
